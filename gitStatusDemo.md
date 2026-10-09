@@ -1,3 +1,1 @@
-This is content
-
-This is an extra line
+This is a new line, specifically for git commit messages!
