@@ -1,1 +1,1 @@
-Merge conflict lolz
+Merge conflict XD!!
