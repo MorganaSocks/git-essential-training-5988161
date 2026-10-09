@@ -1,1 +1,1 @@
-Merge conflict lolz
+Simlating a merge conflict
