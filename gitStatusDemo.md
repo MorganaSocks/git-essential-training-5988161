@@ -1,1 +1,1 @@
-This is a new line, specifically for git commit messages!
+This is a new line, this is a better change
